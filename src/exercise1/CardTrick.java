@@ -11,6 +11,7 @@ package exercise1;
 public class CardTrick {
     
     public static void main(String[] args) {
+	    // Making changes in Exercise 1
         
         Card[] hand = new Card[7];
 
