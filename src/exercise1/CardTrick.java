@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class CardTrick {
     
     public static void main(String[] args) {
+        // I completed the exercise
          Card[] hand = new Card[7];
         Random random = new Random();
         Scanner scanner = new Scanner(System.in);
